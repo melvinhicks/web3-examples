@@ -1,0 +1,14 @@
+{
+  "name": "eth",
+  "version": "0.0.0",
+  "description": "eth",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.7",
+    "web3": "^1.0.0-beta.36",
+    "windows-build-tools": "5.0.0"
+  }
+}
